@@ -4,7 +4,7 @@ Explore special pairs of angles formed when a transversal intersects a set of pa
 
 <iframe scrolling="no" title="Special Angles on Parallel Lines" src="https://www.geogebra.org/material/iframe/id/JTWKC5vr/width/623/height/582/border/888888/sfsb/true/smb/false/stb/true/stbh/true/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="623px" height="582px" style="border:0px;"> </iframe>
 
-<iframe src="https://www.geogebra.org/classic/uhj3jh5p?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe scrolling="no" title="Special Angles on Parallel Lines (Bush School)" src="https://www.geogebra.org/material/iframe/id/y2v4wjkx/width/1131/height/879/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="1131px" height="879px" style="border:0px;"> </iframe>
 
 Directions & Questions:  
 
