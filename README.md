@@ -1,5 +1,6 @@
-# geoembeds
-embed codes for geogebra used in my geo classroom
+# Geogebra apps for the Bush School Geometry Classes
+
+Some Geogebra apps to help visualize simple Geometrical shapes. Please report any issues with this app to <chandru.narayan@bush.edu>
 
 
 ## [Linear Pair of Angles](linearpair.md)
@@ -7,3 +8,6 @@ embed codes for geogebra used in my geo classroom
 ## [Vertical Angles](vertangles.md)
 
 ## [Slope Rise & Run](slope.md)
+
+## [Parallel Lines and Special Angles](parallel.md)
+
