@@ -11,3 +11,5 @@ Some Geogebra apps to help visualize simple Geometrical shapes. Please report an
 
 ## [Parallel Lines and Special Angles](parallel.md)
 
+## [Mid-point of Line Segments](midpoint.md)
+
