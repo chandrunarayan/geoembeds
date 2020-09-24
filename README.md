@@ -13,3 +13,5 @@ Some Geogebra apps to help visualize simple Geometrical shapes. Please report an
 
 ## [Mid-point of Line Segments](midpoint.md)
 
+## [Triangles Sum Conjecture](trianglesum.md)
+
