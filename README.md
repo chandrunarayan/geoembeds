@@ -15,3 +15,5 @@ Some Geogebra apps to help visualize simple Geometrical shapes. Please report an
 
 ## [Triangle Sum Conjecture](trianglesum.md)
 
+## [Triamgle Centers](trianglecenters.md)
+
