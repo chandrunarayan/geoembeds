@@ -17,7 +17,11 @@ Some Geogebra apps to help visualize simple Geometrical shapes. Please report an
 
 ## [Triangle Exterior Angle](triangleexterior.md)
 
+## [Triangle Inequality Conjectures](trianglecineq.md)
+
 ## [Triangle Centers](trianglecenters.md)
+
+
 
 
 
