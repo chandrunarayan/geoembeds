@@ -8,7 +8,7 @@
 * [SSS & SAS Congruency Shortcuts](https://www.loom.com/share/86855aa679304f17a65ba7d0b4488480)
 * [AAA Congruency Analysis - Is it a true Shortcut?](https://www.loom.com/share/8f39971a98b649c5a0e2edeef0bcf60f)
 * [SSA Congruency Analysis - Is it a true Shortcut?](https://www.loom.com/share/db874d55cd3944b6954391200fbe0e1d)
-* [ASA & SAA Congruency Analysis - Are these true Shortcuts?]  ** VIDEO TO BE POSTED SOON ** 
+* [ASA & SAA Congruency Analysis - Are these true Shortcuts?](https://www.loom.com/share/2d9257b8af56404abdebb42fc90be858)
 
 #### Geometry Instrument Constructions
 
