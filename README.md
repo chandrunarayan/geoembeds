@@ -12,7 +12,7 @@
 
 #### Geometry Instrument Constructions
 
-* [How to construct Perpendicular and Angle Bisectors](https://www.loom.com/share/3791a6d4e18747029a3d898390ae4da8)
+* [How to construct Perpendicular and Angle Bisectors](https://www.loom.com/share/9cf007acf61240dc91b3f5dedff52e2d)
 
 ### Geogebra apps to help visualize simple Geometrical concepts. 
 
