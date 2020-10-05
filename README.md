@@ -32,8 +32,6 @@
 
 * [Triangle Inequality Conjectures](triangleineq.md)
 
-* [Triangle Centers](trianglecenters.md)
-
 
 ** Please report any issues with this website to <chandru.narayan@bush.edu> **
 
