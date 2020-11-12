@@ -32,6 +32,9 @@
 
 * [Triangle Inequality Conjectures](triangleineq.md)
 
+### Parallelogram Investigation
+
+* [Properties of Parallelograms](pgram.md)
 
 ** Please report any issues with this website to <chandru.narayan@bush.edu> **
 
