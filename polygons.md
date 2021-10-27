@@ -3,7 +3,7 @@
 ## Square
 * Try moving the points or sliders!!
 
-<iframe scrolling="no" title="Square Properties" src="https://www.geogebra.org/m/eytj7mjc?embed" width="1280" height="960" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe scrolling="no" title="Square Properties" src="https://www.geogebra.org/m/eytj7mjc?embed" width="1280" height="960" allowfullscreen  style="border:0px;" frameborder="0"></iframe>
 
 Square: https://www.geogebra.org/m/eytj7mjc
 Rectangle: https://www.geogebra.org/m/yswatggs
