@@ -1,8 +1,8 @@
-# Instructional Videos and Geogebra apps for Bush School Geometry Classes
+# Instructional Videos and Geogebra apps for Bush Geometry Classes
 
-### Polygon Properties
+### Quadrilateral Properties
 
-* [Click here for Polygon Geogebra Apps](polygons.md)
+* [Click here for Quadrilateral Geogebra Apps](quads.md)
 
 
 ### Geometry Conjectures
