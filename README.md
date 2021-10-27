@@ -1,6 +1,10 @@
 # Instructional Videos and Geogebra apps for Bush School Geometry Classes. 
 
-### Instructional Videos for Projects and Investigations. 
+### Instructional Geogebra Apps & Videos for Projects and Investigations. 
+
+#### Polygon Properties
+
+* [Click here for Geogebra Apps](polygons.md)
 
 #### Triangle Congruency Investigation
 
