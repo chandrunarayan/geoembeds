@@ -1,4 +1,4 @@
-# Quadrilateral Properties Visualizations Geogebra Apps
+# Quadrilateral Properties Visualization Geogebra Apps
 Try moving the points or sliders to see how the polygons behave!
 
 ## Square
