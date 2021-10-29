@@ -1,9 +1,9 @@
 # Instructional Videos and Geogebra apps for Bush Geometry Classes
 
-### Quadrilateral Properties
+### Quadrilateral & Midsegment Properties
 
 * [Click here for Quadrilateral Geogebra Apps](quads.md)
-
+* [Click here for Midsegmet Geogebra Apps](midseg.md)
 
 ### Geometry Conjectures
 
