@@ -3,7 +3,6 @@
 ### Quadrilateral & Midsegment Properties
 
 * [Click here for Quadrilateral Geogebra Apps](quads.md)
-* [Click here for Midsegmet Geogebra Apps](midseg.md)
 
 ### Geometry Conjectures
 

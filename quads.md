@@ -1,4 +1,4 @@
-# Quadrilateral Properties Visualization Geogebra Apps
+# Quadrilateral & Midsegment Properties Visualization Geogebra Apps
 Try moving the points or sliders to see how the polygons behave!
 
 ## Square
@@ -22,3 +22,5 @@ Try moving the points or sliders to see how the polygons behave!
 ## Isosceles Trapezoid
 <iframe scrolling="no" title="Isosceles Trapezoid Properties" src="https://www.geogebra.org/m/nvd26y98" width="1200" height="900" allowfullscreen  style="border:0px;" frameborder="0"></iframe>
 
+## Midsegments
+<iframe scrolling="no" title="Midsegment Properties" src="https://www.geogebra.org/m/qentyuts?embed" width="1200" height="900" allowfullscreen  style="border:0px;" frameborder="0"></iframe>
